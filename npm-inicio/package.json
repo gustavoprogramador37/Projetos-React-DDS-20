@@ -1,0 +1,24 @@
+{
+  "name": "npm-gregory",
+  "version": "1.0.0",
+  "description": "Pacote pra testar o npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "inicial",
+    "tutorial"
+  ],
+  "author": "Pai do Cris",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "1.0.0",
+    "react": "^19.1.1"
+  },
+  "devDependencies": {
+    "bootstrap": "^5.3.8",
+    "minimist": "^1.2.8"
+  }
+}
